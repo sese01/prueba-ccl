@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD1AD88-048A-48F6-B262-25E88F281B4F}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\pruebatecnicaccl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EBD1AD88-048A-48F6-B262-25E88F281B4F}|PruebaTecnicaCCL.csproj|solutionrelative:pruebatecnicaccl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaTecnicaCCL.http",
+              "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\PruebaTecnicaCCL.http",
+              "RelativeDocumentMoniker": "PruebaTecnicaCCL.http",
+              "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\PruebaTecnicaCCL.http",
+              "RelativeToolTip": "PruebaTecnicaCCL.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-01T16:07:05.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
