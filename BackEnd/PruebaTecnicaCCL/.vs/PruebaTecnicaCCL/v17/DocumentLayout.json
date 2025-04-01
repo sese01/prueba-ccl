@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBD1AD88-048A-48F6-B262-25E88F281B4F}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\pruebatecnicaccl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{EBD1AD88-048A-48F6-B262-25E88F281B4F}|PruebaTecnicaCCL.csproj|solutionrelative:pruebatecnicaccl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\pruebatecnicaccl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|solutionrelative:pruebatecnicaccl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:21:30.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T16:21:19.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PruebaTecnicaCCL.http",
               "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\PruebaTecnicaCCL.http",
               "RelativeDocumentMoniker": "PruebaTecnicaCCL.http",
               "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\PruebaTecnicaCCL.http",
               "RelativeToolTip": "PruebaTecnicaCCL.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-01T16:07:05.999Z",
+              "WhenOpened": "2025-04-01T16:18:26.775Z",
               "EditorCaption": ""
             }
           ]

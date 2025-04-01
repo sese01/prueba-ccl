@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBD1AD88-048A-48F6-B262-25E88F281B4F}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\pruebatecnicaccl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{EBD1AD88-048A-48F6-B262-25E88F281B4F}|PruebaTecnicaCCL.csproj|solutionrelative:pruebatecnicaccl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\pruebatecnicaccl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|solutionrelative:pruebatecnicaccl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +28,9 @@
               "RelativeDocumentMoniker": "PruebaTecnicaCCL.http",
               "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\PruebaTecnicaCCL.http",
               "RelativeToolTip": "PruebaTecnicaCCL.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-01T16:07:05.999Z",
+              "WhenOpened": "2025-04-01T16:18:26.775Z",
               "EditorCaption": ""
             }
           ]
