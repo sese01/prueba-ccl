@@ -20,6 +20,8 @@ Este proyecto está compuesto por un backend desarrollado en **.NET Core** y un 
 │   ├── src/app/            # Componentes principales
 │   ├── src/core/           # Módulos y servicios centrales
 │   ├── src/public/         # Componentes públicos como el login
+│── Postgres/               # Carpeta con la base de datos exportada
+│   ├── backup.sql          # Archivo de respaldo de la base de datos
 │── .github/                # Configuración de flujos de trabajo de GitHub Actions
 │── README.md
 ```
@@ -49,16 +51,14 @@ Este proyecto está compuesto por un backend desarrollado en **.NET Core** y un 
    ng serve --open
    ```
 
-## Contribuciones
-1. Haz un fork del repositorio.
-2. Crea una rama para tu cambio (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva característica'`).
-4. Sube la rama (`git push origin feature/nueva-caracteristica`).
-5. Crea un Pull Request en GitHub.
+### Base de Datos (PostgreSQL)
+1. Asegúrate de tener PostgreSQL instalado y corriendo.
+2. Restaura la base de datos desde el archivo de respaldo:
+   ```sh
+   psql -U postgres -d postgres -f Postgres/backup.sql
+   ```
 
-## Autor
-- **Sebastian Gomez** - [Tu perfil de GitHub](https://github.com/sese01)
 
-## Licencia
-Este proyecto está bajo la licencia [Nombre de la licencia].
+
+
 
