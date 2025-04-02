@@ -1,12 +1,12 @@
 # Proyecto: Prueba Técnica CCL
 
 ## Descripción
-Este proyecto está compuesto por un backend desarrollado en **.NET Core** y un frontend en **Angular**. Su objetivo es [describir brevemente la funcionalidad principal del proyecto].
+Este proyecto está compuesto por un backend desarrollado en **.NET Core** y un frontend en **Angular**. Su objetivo es proporcionar un sistema de autenticación basado en tokens, donde los usuarios puedan iniciar sesión y gestionar la cantidad de productos que deseen.
 
 ## Tecnologías Utilizadas
 - **Backend:** .NET Core
 - **Frontend:** Angular
-- **Base de datos:** [Indicar base de datos utilizada]
+- **Base de datos:** postgres
 - **CI/CD:** GitHub Actions
 
 ## Estructura del Proyecto
