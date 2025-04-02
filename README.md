@@ -58,7 +58,10 @@ Este proyecto está compuesto por un backend desarrollado en **.NET Core** y un 
    psql -U postgres -d postgres -f Postgres/backup.sql
    ```
 
-
+### Obtención del Token de Autenticación
+Para obtener el token de acceso, usa las siguientes credenciales en el login:
+- **Usuario:** hola@hola.com
+- **Contraseña:** 123456
 
 
 
