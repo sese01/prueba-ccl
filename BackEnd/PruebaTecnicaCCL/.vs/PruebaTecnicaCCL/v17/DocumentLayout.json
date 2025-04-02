@@ -3,32 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|solutionrelative:controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\pruebatecnicaccl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D4811CA-C7C1-445A-8727-CCCF26823904}|PruebaTecnicaCCL.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB99E294-AD1A-4409-ACBB-E99D70208A65}|..\\Services\\Services.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\services\\dto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A0B6CDC-FDD7-4504-9322-F50E4B13C788}|..\\Data\\Data.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\data\\models\\postgrescontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB99E294-AD1A-4409-ACBB-E99D70208A65}|..\\Services\\Services.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\services\\dto\\productmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB99E294-AD1A-4409-ACBB-E99D70208A65}|..\\Services\\Services.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\services\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB99E294-AD1A-4409-ACBB-E99D70208A65}|..\\Services\\Services.csproj|c:\\users\\sese4\\onedrive\\escritorio\\github\\prueba ccl\\prueba-ccl\\backend\\services\\dto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,37 +16,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PostgresContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\Data\\Models\\PostgresContextFactory.cs",
-              "RelativeDocumentMoniker": "..\\Data\\Models\\PostgresContextFactory.cs",
-              "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\Data\\Models\\PostgresContextFactory.cs",
-              "RelativeToolTip": "..\\Data\\Models\\PostgresContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:58:50.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ProductMove.cs",
               "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\Services\\DTO\\ProductMove.cs",
               "RelativeDocumentMoniker": "..\\Services\\DTO\\ProductMove.cs",
               "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\Services\\DTO\\ProductMove.cs",
               "RelativeToolTip": "..\\Services\\DTO\\ProductMove.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T03:46:06.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\Services\\DTO\\Product.cs",
               "RelativeDocumentMoniker": "..\\Services\\DTO\\Product.cs",
@@ -77,71 +42,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T03:45:37.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:37:23.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Authentication.cs",
-              "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\Controllers\\Authentication.cs",
-              "RelativeDocumentMoniker": "Controllers\\Authentication.cs",
-              "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\Controllers\\Authentication.cs",
-              "RelativeToolTip": "Controllers\\Authentication.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswCwAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:12:53.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\Services\\DTO\\User.cs",
-              "RelativeDocumentMoniker": "..\\Services\\DTO\\User.cs",
-              "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\Services\\DTO\\User.cs",
-              "RelativeToolTip": "..\\Services\\DTO\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:11:47.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAiwCwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:01:43.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Github\\Prueba ccl\\prueba-ccl\\BackEnd\\PruebaTecnicaCCL\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-02T01:00:32.593Z",
               "EditorCaption": ""
             }
           ]

@@ -51,6 +51,22 @@ builder.Services.AddAuthentication(settings =>
 
 });
 
+// Configurar CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngular",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:4200")
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
+
+
+
+// Aplicar CORS
+
 // Obtener la cadena de conexión desde appsettings.json
 string connectionString = builder.Configuration.GetConnectionString("PostgresConnection");
 
@@ -69,6 +85,8 @@ if (app.Environment.IsDevelopment())
         options.SwaggerEndpoint("/openapi/v1.json", "Prueba Tecnica CCL");
     });
 }
+
+app.UseCors("AllowAngular");
 
 app.UseHttpsRedirection();
 
