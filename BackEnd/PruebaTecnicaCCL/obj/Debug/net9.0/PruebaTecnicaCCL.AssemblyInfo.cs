@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaTecnicaCCL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24051a35a768eb07a50b780eb1c008e1e8f1f3ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10fb61c80fd435022081eec53c9c39c1cc1bd673")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaTecnicaCCL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaTecnicaCCL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

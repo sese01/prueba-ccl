@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "PruebaTecnicaCCL.Controllers.Authentication",
+    "Method": "validationUser",
+    "RelativePath": "api/Authentication/validation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Services.DTO.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "PruebaTecnicaCCL.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
